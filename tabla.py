@@ -1,4 +1,5 @@
-# esto hace lo de las tablas de multi
-
 for i in range(10):
-  print("y asi")
+  for j in range(10):
+  	print(i,"por", j, "es", i*j)
+  
+
